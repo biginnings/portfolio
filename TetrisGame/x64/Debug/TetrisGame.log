@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\bigin\source\repos\Class101_lala\TetrisGame\TetrisGame\Source.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TetrisGame.vcxproj -> C:\Users\bigin\source\repos\Class101_lala\TetrisGame\x64\Debug\TetrisGame.exe
